@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://thungnlab.cn/"/>
-  <updated>2022-10-23T12:35:17.526Z</updated>
+  <updated>2022-10-25T02:11:27.667Z</updated>
   <id>http://thungnlab.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Time for Editors-in-chief of Nature</title>
-    <link href="http://thungnlab.cn/2019/time-for-editors-in-chief/"/>
-    <id>http://thungnlab.cn/2019/time-for-editors-in-chief/</id>
-    <published>2019-08-31T15:59:59.000Z</published>
-    <updated>2022-10-23T12:35:17.526Z</updated>
+    <title>最新动态-Nature子刊</title>
+    <link href="http://thungnlab.cn/2022/hello-world/"/>
+    <id>http://thungnlab.cn/2022/hello-world/</id>
+    <published>2022-10-25T02:00:00.000Z</published>
+    <updated>2022-10-25T02:11:27.667Z</updated>
     
     <summary type="html">
     
@@ -29,11 +29,7 @@
       
         
         
-          &lt;!doctype html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-    &lt;meta charset=&quot;utf-8&quot;/&gt;
-    &lt;meta name=&quot;viewport&quot;
+          &lt;p&gt;恭喜实验室博士生武楚涵等同学录用Nature Communications文章两篇&lt;br&gt;[1] Wu, C., Wu, F., Lyu, L. et al. Communication-efficient federated learning via knowledge
         
       
     
@@ -43,11 +39,11 @@
   </entry>
   
   <entry>
-    <title>Time for Editors-in-chief of Nature</title>
-    <link href="http://thungnlab.cn/2019/time-for-editors-in-chief_bk/"/>
-    <id>http://thungnlab.cn/2019/time-for-editors-in-chief_bk/</id>
-    <published>2019-08-31T10:55:35.000Z</published>
-    <updated>2022-10-23T12:35:17.526Z</updated>
+    <title>最新动态-微软亚太学者提名奖</title>
+    <link href="http://thungnlab.cn/2022/news/"/>
+    <id>http://thungnlab.cn/2022/news/</id>
+    <published>2022-10-25T02:00:00.000Z</published>
+    <updated>2022-10-25T02:16:01.286Z</updated>
     
     <summary type="html">
     
@@ -55,36 +51,8 @@
       
         
         
-          &lt;!DOCTYPE HTML&gt;
+          &lt;p&gt;恭喜实验室博士生齐涛获得微软亚太学者提名奖。从47所科研机构164名申请者中评选出21名，竞争激烈，荣誉满满！&lt;/p&gt;
 
-&lt;html&gt;
-
-&lt;head&gt;
-	&lt;title&gt;Time for Editors-in-chief of Nature&lt;/title&gt;
-	&lt;meta charset=&quot;utf-8&quot; /&gt;
-	&lt;meta name=&quot;viewport&quot;
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Welcome</title>
-    <link href="http://thungnlab.cn/2019/hello-world/"/>
-    <id>http://thungnlab.cn/2019/hello-world/</id>
-    <published>2019-05-31T15:59:59.000Z</published>
-    <updated>2022-10-23T12:35:17.526Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to
         
       
     

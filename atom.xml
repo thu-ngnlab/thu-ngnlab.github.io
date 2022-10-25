@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://thungnlab.cn/"/>
-  <updated>2022-10-25T02:25:11.709Z</updated>
+  <updated>2022-10-25T06:14:05.527Z</updated>
   <id>http://thungnlab.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>最新动态-Nature子刊2篇</title>
-    <link href="http://thungnlab.cn/2022/hello-world/"/>
-    <id>http://thungnlab.cn/2022/hello-world/</id>
+    <title>2022.4.19-Nature子刊</title>
+    <link href="http://thungnlab.cn/2022/nc1/"/>
+    <id>http://thungnlab.cn/2022/nc1/</id>
     <published>2022-10-25T02:00:00.000Z</published>
-    <updated>2022-10-25T02:25:11.709Z</updated>
+    <updated>2022-10-25T06:14:05.527Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,29 @@
       
         
         
-          &lt;p&gt;恭喜实验室博士生武楚涵等同学录用Nature Communications文章两篇&lt;br&gt;[1] Wu, C., Wu, F., Lyu, L. et al. Communication-efficient federated learning via knowledge
+          &lt;p&gt;恭喜实验室博士生武楚涵等同学录用Nature Communications文章&lt;br&gt;[1] Wu, C., Wu, F., Lyu, L. et al. Communication-efficient federated learning via knowledge
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2022.6.02-Nature子刊</title>
+    <link href="http://thungnlab.cn/2022/nc2/"/>
+    <id>http://thungnlab.cn/2022/nc2/</id>
+    <published>2022-10-25T02:00:00.000Z</published>
+    <updated>2022-10-25T06:14:01.431Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;恭喜实验室博士生武楚涵等同学录用Nature Communications文章&lt;br&gt;[1] Wu, C., Wu, F., Lyu, L. et al. A federated graph neural network framework for
         
       
     

@@ -4,11 +4,24 @@
   
     
     <entry>
-      <title>最新动态-Nature子刊2篇</title>
-      <link href="/2022/hello-world/"/>
-      <url>/2022/hello-world/</url>
+      <title>2022.4.19-Nature子刊</title>
+      <link href="/2022/nc1/"/>
+      <url>/2022/nc1/</url>
       
-        <content type="html"><![CDATA[<p>恭喜实验室博士生武楚涵等同学录用Nature Communications文章两篇<br>[1] Wu, C., Wu, F., Lyu, L. et al. Communication-efficient federated learning via knowledge distillation. Nat Commun 13, 2032 (2022). <a href="https://doi.org/10.1038/s41467-022-29763-x">https://doi.org/10.1038/s41467-022-29763-x</a><br>[2] Wu, C., Wu, F., Lyu, L. et al. A federated graph neural network framework for privacy-preserving personalization. Nat Commun 13, 3091 (2022). <a href="https://doi.org/10.1038/s41467-022-30714-9">https://doi.org/10.1038/s41467-022-30714-9</a></p>]]></content>
+        <content type="html"><![CDATA[<p>恭喜实验室博士生武楚涵等同学录用Nature Communications文章<br>[1] Wu, C., Wu, F., Lyu, L. et al. Communication-efficient federated learning via knowledge distillation. Nat Commun 13, 2032 (2022). <a href="https://doi.org/10.1038/s41467-022-29763-x">https://doi.org/10.1038/s41467-022-29763-x</a></p><p>本文提出了一种基于知识蒸馏的去中心化学习框架，降低联邦学习中的通信开销。能够以不到十分之一的通信开销，实现与中心化训练大模型相近的性能。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2022.6.02-Nature子刊</title>
+      <link href="/2022/nc2/"/>
+      <url>/2022/nc2/</url>
+      
+        <content type="html"><![CDATA[<p>恭喜实验室博士生武楚涵等同学录用Nature Communications文章<br>[1] Wu, C., Wu, F., Lyu, L. et al. A federated graph neural network framework for privacy-preserving personalization. Nat Commun 13, 3091 (2022). <a href="https://doi.org/10.1038/s41467-022-30714-9">https://doi.org/10.1038/s41467-022-30714-9</a></p><p>本文提出了一种隐私保护下的图神经网络推荐框架，可以从高度去中心化的用户子图中增强用户与商品的表征，强化个性化推荐能力。</p>]]></content>
       
       
       

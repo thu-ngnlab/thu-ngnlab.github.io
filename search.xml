@@ -4,9 +4,22 @@
   
     
     <entry>
+      <title>2023.6.24-Nature子刊</title>
+      <link href="/2023/news4/"/>
+      <url>/2023/news4/</url>
+      
+        <content type="html"><![CDATA[<p>恭喜实验室博士生齐涛等同学录用Nature Communications文章<br>[1] Qi T, Wu F, Wu C, et al. Differentially private knowledge transfer for federated learning[J]. Nature Communications, 2023, 14(1): 3785.</p><p>本文提出了一种名为PrivateKT的知识传递方法，在联邦学习中使用经过积极选择的少量公共数据，以提供具有隐私保证的高质量知识传递。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>最新动态-湖北省科技进步奖一等奖</title>
-      <link href="/2023/news%203/"/>
-      <url>/2023/news%203/</url>
+      <link href="/2023/news3/"/>
+      <url>/2023/news3/</url>
       
         <content type="html"><![CDATA[<p>恭喜黄永峰老师获得2022年湖北省科技进步奖一等奖，获奖项目为“跨场景大数据分析关键技术及应用”。</p>]]></content>
       

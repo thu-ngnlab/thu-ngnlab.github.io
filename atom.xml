@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://thungnlab.cn/"/>
-  <updated>2023-08-11T05:52:28.483Z</updated>
+  <updated>2023-08-15T03:39:10.485Z</updated>
   <id>http://thungnlab.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2023.6.24-Nature子刊</title>
-    <link href="http://thungnlab.cn/2023/news4/"/>
-    <id>http://thungnlab.cn/2023/news4/</id>
+    <title>2023.6.24-Nature子刊文章录用</title>
+    <link href="http://thungnlab.cn/2023/ns4/"/>
+    <id>http://thungnlab.cn/2023/ns4/</id>
     <published>2023-06-24T02:00:00.000Z</published>
-    <updated>2023-08-11T05:52:28.483Z</updated>
+    <updated>2023-08-15T03:39:10.485Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;恭喜实验室博士生齐涛等同学录用Nature Communications文章&lt;br&gt;[1] Qi T, Wu F, Wu C, et al. Differentially private knowledge transfer for federated
+          &lt;p&gt;恭喜实验室博士生齐涛等同学的文章被Nature Communications录用&lt;br&gt;[1] Qi, T., Wu, F., Wu, C., He, L., Huang, Y., &amp;amp; Xie, X. (2023). Differentially private
         
       
     
@@ -39,11 +39,11 @@
   </entry>
   
   <entry>
-    <title>最新动态-湖北省科技进步奖一等奖</title>
-    <link href="http://thungnlab.cn/2023/news3/"/>
-    <id>http://thungnlab.cn/2023/news3/</id>
+    <title>2023-2-黄永峰老师获湖北省科技进步奖一等奖</title>
+    <link href="http://thungnlab.cn/2023/news2/"/>
+    <id>http://thungnlab.cn/2023/news2/</id>
     <published>2023-04-07T02:00:00.000Z</published>
-    <updated>2023-04-10T07:10:58.286Z</updated>
+    <updated>2023-08-16T06:30:53.580Z</updated>
     
     <summary type="html">
     
@@ -62,11 +62,11 @@
   </entry>
   
   <entry>
-    <title>最新动态-Nature子刊</title>
-    <link href="http://thungnlab.cn/2022/news%202/"/>
-    <id>http://thungnlab.cn/2022/news 2/</id>
+    <title>2022-12-20-Nature子刊文章录用</title>
+    <link href="http://thungnlab.cn/2022/ns3/"/>
+    <id>http://thungnlab.cn/2022/ns3/</id>
     <published>2022-12-19T16:00:00.000Z</published>
-    <updated>2023-04-10T07:15:44.773Z</updated>
+    <updated>2023-08-15T06:17:44.735Z</updated>
     
     <summary type="html">
     
@@ -74,7 +74,7 @@
       
         
         
-          &lt;p&gt;恭喜实验室博士生武楚涵等同学录用 humanities and social sciences communications文章&lt;br&gt;[1] Wu, C., Wu, F., Qi, T. et al. Removing AI’s sentiment
+          &lt;p&gt;恭喜实验室博士生武楚涵等同学的文章被 humanities and social sciences communications录用！&lt;br&gt;[1] Wu, C., Wu, F., Qi, T., Zhang, W. Q., Xie, X., &amp;amp; Huang,
         
       
     
@@ -84,55 +84,11 @@
   </entry>
   
   <entry>
-    <title>2022.4.19-Nature子刊</title>
-    <link href="http://thungnlab.cn/2022/nc1/"/>
-    <id>http://thungnlab.cn/2022/nc1/</id>
-    <published>2022-10-25T02:00:00.000Z</published>
-    <updated>2022-10-25T06:14:05.527Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;恭喜实验室博士生武楚涵等同学录用Nature Communications文章&lt;br&gt;[1] Wu, C., Wu, F., Lyu, L. et al. Communication-efficient federated learning via knowledge
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2022.6.02-Nature子刊</title>
-    <link href="http://thungnlab.cn/2022/nc2/"/>
-    <id>http://thungnlab.cn/2022/nc2/</id>
-    <published>2022-10-25T02:00:00.000Z</published>
-    <updated>2022-10-25T06:14:01.431Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;恭喜实验室博士生武楚涵等同学录用Nature Communications文章&lt;br&gt;[1] Wu, C., Wu, F., Lyu, L. et al. A federated graph neural network framework for
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>最新动态-微软亚太学者提名奖</title>
+    <title>2022-10-实验室同学获微软亚太学者提名奖</title>
     <link href="http://thungnlab.cn/2022/news/"/>
     <id>http://thungnlab.cn/2022/news/</id>
     <published>2022-10-25T02:00:00.000Z</published>
-    <updated>2022-10-25T02:16:01.286Z</updated>
+    <updated>2023-08-16T06:29:24.564Z</updated>
     
     <summary type="html">
     
@@ -142,6 +98,50 @@
         
           &lt;p&gt;恭喜实验室博士生齐涛获得微软亚太学者提名奖。从47所科研机构164名申请者中评选出21名，竞争激烈，荣誉满满！&lt;/p&gt;
 
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2022.4.19-Nature子刊文章录用</title>
+    <link href="http://thungnlab.cn/2022/ns1/"/>
+    <id>http://thungnlab.cn/2022/ns1/</id>
+    <published>2022-10-25T02:00:00.000Z</published>
+    <updated>2023-08-16T06:33:11.849Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;恭喜实验室博士生武楚涵等同学的文章被Nature Communications录用！&lt;br&gt;[1] Wu, C., Wu, F., Lyu, L., Huang, Y., &amp;amp; Xie, X. (2022). Communication-efficient
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2022.6.02-Nature子刊文章录用</title>
+    <link href="http://thungnlab.cn/2022/ns2/"/>
+    <id>http://thungnlab.cn/2022/ns2/</id>
+    <published>2022-10-25T02:00:00.000Z</published>
+    <updated>2023-08-16T06:32:49.381Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;恭喜实验室博士生武楚涵等同学的文章被Nature Communications录用！&lt;br&gt;[1] Wu, C., Wu, F., Lyu, L., Qi, T., Huang, Y., &amp;amp; Xie, X. (2022). A federated graph
         
       
     

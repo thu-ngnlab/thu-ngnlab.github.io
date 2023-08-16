@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>2023.6.24-Nature子刊</title>
-      <link href="/2023/news4/"/>
-      <url>/2023/news4/</url>
+      <title>2023.6.24-Nature子刊文章录用</title>
+      <link href="/2023/ns4/"/>
+      <url>/2023/ns4/</url>
       
-        <content type="html"><![CDATA[<p>恭喜实验室博士生齐涛等同学录用Nature Communications文章<br>[1] Qi T, Wu F, Wu C, et al. Differentially private knowledge transfer for federated learning[J]. Nature Communications, 2023, 14(1): 3785.</p><p>本文提出了一种名为PrivateKT的知识传递方法，在联邦学习中使用经过积极选择的少量公共数据，以提供具有隐私保证的高质量知识传递。</p>]]></content>
+        <content type="html"><![CDATA[<p>恭喜实验室博士生齐涛等同学的文章被Nature Communications录用<br>[1] Qi, T., Wu, F., Wu, C., He, L., Huang, Y., &amp; Xie, X. (2023). Differentially private knowledge transfer for federated learning. Nature Communications, 14(1), 3785.<br><a href="https://www.nature.com/articles/s41467-023-38794-x.pdf">点击跳转文章原文</a></p><p>本文提出了一种名为PrivateKT的知识传递方法，在联邦学习中使用经过积极选择的少量公共数据，以提供具有隐私保证的高质量知识传递。</p>]]></content>
       
       
       
@@ -17,9 +17,9 @@
     
     
     <entry>
-      <title>最新动态-湖北省科技进步奖一等奖</title>
-      <link href="/2023/news3/"/>
-      <url>/2023/news3/</url>
+      <title>2023-2-黄永峰老师获湖北省科技进步奖一等奖</title>
+      <link href="/2023/news2/"/>
+      <url>/2023/news2/</url>
       
         <content type="html"><![CDATA[<p>恭喜黄永峰老师获得2022年湖北省科技进步奖一等奖，获奖项目为“跨场景大数据分析关键技术及应用”。</p>]]></content>
       
@@ -30,24 +30,11 @@
     
     
     <entry>
-      <title>最新动态-Nature子刊</title>
-      <link href="/2022/news%202/"/>
-      <url>/2022/news%202/</url>
+      <title>2022-12-20-Nature子刊文章录用</title>
+      <link href="/2022/ns3/"/>
+      <url>/2022/ns3/</url>
       
-        <content type="html"><![CDATA[<p>恭喜实验室博士生武楚涵等同学录用 humanities and social sciences communications文章<br>[1] Wu, C., Wu, F., Qi, T. et al. Removing AI’s sentiment manipulation of personalized news delivery. Humanit Soc Sci Commun 9, 459 (2022). <a href="https://doi.org/10.1057/s41599-022-01473-1">https://doi.org/10.1057/s41599-022-01473-1</a></p><p>本文提出了一种基于分解对抗学习框架的情感去偏方法，可以只牺牲2.9%的准确性但减少97.3%的情感偏差。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2022.4.19-Nature子刊</title>
-      <link href="/2022/nc1/"/>
-      <url>/2022/nc1/</url>
-      
-        <content type="html"><![CDATA[<p>恭喜实验室博士生武楚涵等同学录用Nature Communications文章<br>[1] Wu, C., Wu, F., Lyu, L. et al. Communication-efficient federated learning via knowledge distillation. Nat Commun 13, 2032 (2022). <a href="https://doi.org/10.1038/s41467-022-29763-x">https://doi.org/10.1038/s41467-022-29763-x</a></p><p>本文提出了一种基于知识蒸馏的去中心化学习框架，降低联邦学习中的通信开销。能够以不到十分之一的通信开销，实现与中心化训练大模型相近的性能。</p>]]></content>
+        <content type="html"><![CDATA[<p>恭喜实验室博士生武楚涵等同学的文章被 humanities and social sciences communications录用！<br>[1] Wu, C., Wu, F., Qi, T., Zhang, W. Q., Xie, X., &amp; Huang, Y. (2022). Removing AI’s sentiment manipulation of personalized news delivery. Humanities and Social Sciences Communications, 9(1), 1-9.<br><a href="https://doi.org/10.1057/s41599-022-01473-1">点击跳转文章原文</a></p><p>本文提出了一种基于分解对抗学习框架的情感去偏方法，可以只牺牲2.9%的准确性但减少97.3%的情感偏差。</p>]]></content>
       
       
       
@@ -56,24 +43,37 @@
     
     
     <entry>
-      <title>2022.6.02-Nature子刊</title>
-      <link href="/2022/nc2/"/>
-      <url>/2022/nc2/</url>
-      
-        <content type="html"><![CDATA[<p>恭喜实验室博士生武楚涵等同学录用Nature Communications文章<br>[1] Wu, C., Wu, F., Lyu, L. et al. A federated graph neural network framework for privacy-preserving personalization. Nat Commun 13, 3091 (2022). <a href="https://doi.org/10.1038/s41467-022-30714-9">https://doi.org/10.1038/s41467-022-30714-9</a></p><p>本文提出了一种隐私保护下的图神经网络推荐框架，可以从高度去中心化的用户子图中增强用户与商品的表征，强化个性化推荐能力。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>最新动态-微软亚太学者提名奖</title>
+      <title>2022-10-实验室同学获微软亚太学者提名奖</title>
       <link href="/2022/news/"/>
       <url>/2022/news/</url>
       
         <content type="html"><![CDATA[<p>恭喜实验室博士生齐涛获得微软亚太学者提名奖。从47所科研机构164名申请者中评选出21名，竞争激烈，荣誉满满！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2022.4.19-Nature子刊文章录用</title>
+      <link href="/2022/ns1/"/>
+      <url>/2022/ns1/</url>
+      
+        <content type="html"><![CDATA[<p>恭喜实验室博士生武楚涵等同学的文章被Nature Communications录用！<br>[1] Wu, C., Wu, F., Lyu, L., Huang, Y., &amp; Xie, X. (2022). Communication-efficient federated learning via knowledge distillation. Nature communications, 13(1), 2032.<br><a href="https://doi.org/10.1038/s41467-022-29763-x">点击跳转文章原文</a></p><p>本文提出了一种基于知识蒸馏的去中心化学习框架，降低联邦学习中的通信开销。能够以不到十分之一的通信开销，实现与中心化训练大模型相近的性能。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2022.6.02-Nature子刊文章录用</title>
+      <link href="/2022/ns2/"/>
+      <url>/2022/ns2/</url>
+      
+        <content type="html"><![CDATA[<p>恭喜实验室博士生武楚涵等同学的文章被Nature Communications录用！<br>[1] Wu, C., Wu, F., Lyu, L., Qi, T., Huang, Y., &amp; Xie, X. (2022). A federated graph neural network framework for privacy-preserving personalization. Nature Communications, 13(1), 3091.<br><a href="https://doi.org/10.1038/s41467-022-30714-9">点击跳转文章原文</a></p><p>本文提出了一种隐私保护下的图神经网络推荐框架，可以从高度去中心化的用户子图中增强用户与商品的表征，强化个性化推荐能力。</p>]]></content>
       
       
       

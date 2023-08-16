@@ -60,7 +60,7 @@
       <link href="/2022/ns1/"/>
       <url>/2022/ns1/</url>
       
-        <content type="html"><![CDATA[<p>恭喜实验室博士生武楚涵等同学的文章被Nature Communications录用！<br>[1] Wu, C., Wu, F., Lyu, L., Huang, Y., &amp; Xie, X. (2022). Communication-efficient federated learning via knowledge distillation. Nature communications, 13(1), 2032.<br><a href="https://doi.org/10.1038/s41467-022-29763-x">点击跳转文章原文</a></p><p>本文提出了一种基于知识蒸馏的去中心化学习框架，降低联邦学习中的通信开销。能够以不到十分之一的通信开销，实现与中心化训练大模型相近的性能。</p>]]></content>
+        <content type="html"><![CDATA[<p>恭喜实验室博士生武楚涵等同学的文章被Nature Communications录用！<br>[1] Wu, C., Wu, F., Lyu, L., Huang, Y., &amp; Xie, X. (2022). Communication-efficient federated learning via knowledge distillation. Nature communications, 13(1), 2032.<br><a href="https://doi.org/10.1038/s41467-022-29763-x">点击跳转文章原文</a></p><p>本文提出了一种基于知识蒸馏的去中心化学习框架，以降低联邦学习中的通信开销。能够以不到十分之一的通信开销，实现与中心化训练大模型相近的性能。</p>]]></content>
       
       
       
